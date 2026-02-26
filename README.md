@@ -18,3 +18,6 @@ HTML
 CSS
 
 JavaScript
+
+Demo Link
+https://simranmithapeli21-sketch.github.io/Zomato_delivery_Website/
