@@ -1,2 +1,20 @@
-# Zomato_delivery_Website
-Zomato Delivery Website Clone built using HTML, CSS, and JavaScript. This project replicates the UI of Zomato for learning and practice purposes.
+🍽️ Zomato Delivery Website Clone
+
+This is a frontend clone of the popular food delivery platform Zomato.
+It is built for educational and portfolio purposes using HTML, CSS, and JavaScript.
+
+🚀 Features
+
+Search bar interface
+
+Login / Signup UI
+
+Clean and modern layout
+
+🛠️ Technologies Used
+
+HTML
+
+CSS
+
+JavaScript
